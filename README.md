@@ -25,6 +25,7 @@ This project is designed to solve **[problem statement]** by providing a simple,
 - ✅ Role-Based Access Control
 - ✅ Error Handling
 - ✅ Secure Password Encryption
+- item1
 
 ---
 
